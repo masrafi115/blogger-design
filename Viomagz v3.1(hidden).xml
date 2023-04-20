@@ -4,6 +4,7 @@
 <head>
 
 <meta content='width=device-width, initial-scale=1' name='viewport'/>
+<!--first commit mobile-->
 <b:include data='blog' name='all-head-content'/>
 <meta content='9792661964FCB5A302446F6AF23BE0CD' name='msvalidate.01'/>
 <!-- Title -->
