@@ -1,0 +1,2 @@
+#### Amazing Blogger Template
+Long ago, I started my own blog at blogspot. The journey was good. I explored Themes, Design, Template and a lot of things of Blogspot. This repository consist of some of these cool themes that I liked and used  back in these days.
